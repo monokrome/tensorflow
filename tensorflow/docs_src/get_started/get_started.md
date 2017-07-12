@@ -27,7 +27,7 @@ working internally when you use the more compact higher level API.
 # Tensors
 
 The central unit of data in TensorFlow is the **tensor**. A tensor consists of a
-set of primitive values shaped into an array of any number of dimensions. A
+grouping of primitive values shaped into an array of any number of dimensions. A
 tensor's **rank** is its number of dimensions. Here are some examples of
 tensors:
 
